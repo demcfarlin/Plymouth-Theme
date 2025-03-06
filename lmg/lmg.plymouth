@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=linuxmint
+Description=A glitch-inspired theme for Linux Mint, modified from Parrot OS
+Comment=created By Aditya Shakya (@adi1090x) and modified by David McFarlin (@demcfarlin)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lmg
+ScriptFile=/usr/share/plymouth/themes/lmg/lmg.script
